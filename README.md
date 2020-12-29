@@ -1,0 +1,1 @@
+# spack-fake-package
